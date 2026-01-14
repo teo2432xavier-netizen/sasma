@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Casino Online</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="fonts.googleapis.com" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Demo Casino Club</h1>
+            <nav>
+                <ul>
+                    <li><a href="#slots">Slots</a></li>
+                    <li><a href="#ruleta">Ruleta</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <h2>Nuestros Juegos de Demostración</h2>
+        <div class="game-grid">
+            <!-- Tarjeta de Juego 1 -->
+            <div class="game-card">
+                <img src="via.placeholder.com" alt="Slot 1">
+                <h3>Golden Egypt Slot</h3>
+                <a href="#" class="play-button">Jugar Demo</a>
+            </div>
+            <!-- Tarjeta de Juego 2 -->
+            <div class="game-card">
+                <img src="via.placeholder.com" alt="Slot 2">
+                <h3>Classic Seven</h3>
+                <a href="#" class="play-button">Jugar Demo</a>
+            </div>
+            <!-- Tarjeta de Juego 3 -->
+            <div class="game-card">
+                <img src="via.placeholder.com" alt="Slot 3">
+                <h3>Pirate's Chest</h3>
+                <a href="#" class="play-button">Jugar Demo</a>
+            </div>
+             <!-- Tarjeta de Juego 4 -->
+             <div class="game-card">
+                <img src="via.placeholder.com" alt="Slot 4">
+                <h3>Diamond Deluxe</h3>
+                <a href="#" class="play-button">Jugar Demo</a>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Demo Casino. Solo fines ilustrativos. Prohibido el juego con dinero real.</p>
+        </div>
+    </footer>
+</body>
+</html>
